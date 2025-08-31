@@ -1,1 +1,3 @@
-# online-pharmacy-store
+# MedConnect - Online Pharmacy Store
+
+Steps to run the project...
